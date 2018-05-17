@@ -1,0 +1,14 @@
+{
+  "name": "sys-info-app",
+  "version": "1.0.0",
+  "description": "Simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Frankie Gavin",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.1"
+  }
+}
